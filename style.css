@@ -1,0 +1,43 @@
+.product-card{
+    width:200px;
+    margin:10px;
+    padding:10px; 
+    border-radius: 10px;
+    border: 2px dotted black;
+    background-color:#d27979 ;
+}
+.product-card:hover{
+    box-shadow: 5px 5px 5px 2px brown;
+     transition: 2s;
+}
+.title{
+  text-align:center;
+}
+.product-img{
+    width: 150px;
+    border: none;
+    border-radius:10px ;
+    display: block;
+    margin: 5px auto;
+}
+
+.btn{
+    display:block;
+    margin:5px auto; 
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:#862d2d ;
+    color: white;
+     font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn:hover{
+    box-shadow: 2px 2px 5px 10px rgb(214, 21, 59);
+   
+}
+.epunda-slab-inform {
+  font-family: "Epunda Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}    
