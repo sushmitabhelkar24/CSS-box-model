@@ -68,6 +68,10 @@ h1{
     flex-direction: row;
     justify-content: space-around;
     margin: 20px;
-    
-
+}
+footer{
+    height: 150px;
+    width: 100vw;
+    background-color: black;
+    margin-top: 200px;
 }
